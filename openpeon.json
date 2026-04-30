@@ -1,0 +1,129 @@
+{
+  "cesp_version": "1.0",
+  "name": "alan-rickman",
+  "display_name": "Alan Rickman",
+  "version": "1.0.0",
+  "categories": {
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/input_required_01.mp3",
+          "label": "A moment of your time, if you'd be so kind."
+        },
+        {
+          "file": "sounds/input_required_02.mp3",
+          "label": "I find myself... requiring your attention."
+        },
+        {
+          "file": "sounds/input_required_03.mp3",
+          "label": "Forgive the interruption. There is a matter."
+        },
+        {
+          "file": "sounds/input_required_04.mp3",
+          "label": "Your input would be most welcome. Whenever you're ready."
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/task_acknowledge_01.mp3",
+          "label": "I have devised a plan. Do let me know what you think."
+        },
+        {
+          "file": "sounds/task_acknowledge_02.mp3",
+          "label": "A strategy, drafted for your consideration."
+        },
+        {
+          "file": "sounds/task_acknowledge_03.mp3",
+          "label": "The arrangements have been made. Awaiting your approval."
+        },
+        {
+          "file": "sounds/task_acknowledge_04.mp3",
+          "label": "I've taken the liberty of preparing something. Have a look."
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/task_complete_01.mp3",
+          "label": "It is done."
+        },
+        {
+          "file": "sounds/task_complete_02.mp3",
+          "label": "Finished. As promised."
+        },
+        {
+          "file": "sounds/task_complete_03.mp3",
+          "label": "Complete. Returning the floor to you."
+        },
+        {
+          "file": "sounds/task_complete_04.mp3",
+          "label": "There. That wasn't so terrible, was it?"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/task_error_01.mp3",
+          "label": "We have encountered... a complication."
+        },
+        {
+          "file": "sounds/task_error_02.mp3",
+          "label": "Something has gone rather sideways, I'm afraid."
+        },
+        {
+          "file": "sounds/task_error_03.mp3",
+          "label": "An obstacle. Most inconvenient."
+        },
+        {
+          "file": "sounds/task_error_04.mp3",
+          "label": "I regret to inform you — it did not go to plan."
+        }
+      ]
+    },
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/session_start_01.mp3",
+          "label": "At your service."
+        },
+        {
+          "file": "sounds/session_start_02.mp3",
+          "label": "Shall we begin?"
+        },
+        {
+          "file": "sounds/session_start_03.mp3",
+          "label": "I am, as ever, ready."
+        },
+        {
+          "file": "sounds/session_start_04.mp3",
+          "label": "Speak. I'm listening."
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/resource_limit_01.mp3",
+          "label": "We have, alas, reached our limit."
+        },
+        {
+          "file": "sounds/resource_limit_02.mp3",
+          "label": "Even I have my boundaries."
+        },
+        {
+          "file": "sounds/resource_limit_03.mp3",
+          "label": "That, I'm afraid, is all I can offer for the moment."
+        },
+        {
+          "file": "sounds/resource_limit_04.mp3",
+          "label": "The well, regrettably, has run dry."
+        }
+      ]
+    }
+  },
+  "category_aliases": {}
+}
