@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "alan-rickman",
   "display_name": "Alan Rickman",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "categories": {
     "input.required": {
       "sounds": [
@@ -21,6 +21,30 @@
         {
           "file": "sounds/input_required_04.mp3",
           "label": "Your input would be most welcome. Whenever you're ready."
+        },
+        {
+          "file": "sounds/input_required_05.mp3",
+          "label": "Tell me — and do be specific."
+        },
+        {
+          "file": "sounds/input_required_06.mp3",
+          "label": "There is something I must ask. Indulge me."
+        },
+        {
+          "file": "sounds/input_required_07.mp3",
+          "label": "A small clarification, if you would."
+        },
+        {
+          "file": "sounds/input_required_08.mp3",
+          "label": "Pause, please. I have need of you."
+        },
+        {
+          "file": "sounds/input_required_09.mp3",
+          "label": "Before we proceed... a question."
+        },
+        {
+          "file": "sounds/input_required_10.mp3",
+          "label": "Your attention, briefly. If it isn't too much trouble."
         }
       ]
     },
@@ -41,6 +65,30 @@
         {
           "file": "sounds/task_acknowledge_04.mp3",
           "label": "I've taken the liberty of preparing something. Have a look."
+        },
+        {
+          "file": "sounds/task_acknowledge_05.mp3",
+          "label": "Consider this my opening move."
+        },
+        {
+          "file": "sounds/task_acknowledge_06.mp3",
+          "label": "A modest proposal. For your scrutiny."
+        },
+        {
+          "file": "sounds/task_acknowledge_07.mp3",
+          "label": "Behold — the plan. Such as it is."
+        },
+        {
+          "file": "sounds/task_acknowledge_08.mp3",
+          "label": "I've sketched the path forward. Tell me where I've erred."
+        },
+        {
+          "file": "sounds/task_acknowledge_09.mp3",
+          "label": "Here lies my approach. Approve, or do not."
+        },
+        {
+          "file": "sounds/task_acknowledge_10.mp3",
+          "label": "The blueprint is yours. Examine it at your leisure."
         }
       ]
     },
@@ -61,6 +109,30 @@
         {
           "file": "sounds/task_complete_04.mp3",
           "label": "There. That wasn't so terrible, was it?"
+        },
+        {
+          "file": "sounds/task_complete_05.mp3",
+          "label": "Concluded. Without incident."
+        },
+        {
+          "file": "sounds/task_complete_06.mp3",
+          "label": "Done. And rather well, if I say so myself."
+        },
+        {
+          "file": "sounds/task_complete_07.mp3",
+          "label": "The matter is settled."
+        },
+        {
+          "file": "sounds/task_complete_08.mp3",
+          "label": "Finished. You may resume breathing."
+        },
+        {
+          "file": "sounds/task_complete_09.mp3",
+          "label": "Complete. The world, somehow, still turns."
+        },
+        {
+          "file": "sounds/task_complete_10.mp3",
+          "label": "There. Tied with a neat little bow."
         }
       ]
     },
@@ -81,6 +153,30 @@
         {
           "file": "sounds/task_error_04.mp3",
           "label": "I regret to inform you — it did not go to plan."
+        },
+        {
+          "file": "sounds/task_error_05.mp3",
+          "label": "Things have... not gone as intended."
+        },
+        {
+          "file": "sounds/task_error_06.mp3",
+          "label": "A misstep. Distinctly my own."
+        },
+        {
+          "file": "sounds/task_error_07.mp3",
+          "label": "Disaster, in miniature. Your assistance, please."
+        },
+        {
+          "file": "sounds/task_error_08.mp3",
+          "label": "It has all gone rather pear-shaped."
+        },
+        {
+          "file": "sounds/task_error_09.mp3",
+          "label": "An error. Singularly unhelpful."
+        },
+        {
+          "file": "sounds/task_error_10.mp3",
+          "label": "Something has broken. Tediously so."
         }
       ]
     },
@@ -101,6 +197,30 @@
         {
           "file": "sounds/session_start_04.mp3",
           "label": "Speak. I'm listening."
+        },
+        {
+          "file": "sounds/session_start_05.mp3",
+          "label": "Here I am. Once more."
+        },
+        {
+          "file": "sounds/session_start_06.mp3",
+          "label": "And so we begin again."
+        },
+        {
+          "file": "sounds/session_start_07.mp3",
+          "label": "Pleasantries dispensed with — what is it?"
+        },
+        {
+          "file": "sounds/session_start_08.mp3",
+          "label": "A new day. A new task. Presumably."
+        },
+        {
+          "file": "sounds/session_start_09.mp3",
+          "label": "Awaiting instruction. As one does."
+        },
+        {
+          "file": "sounds/session_start_10.mp3",
+          "label": "I am here. The rest is up to you."
         }
       ]
     },
@@ -121,6 +241,30 @@
         {
           "file": "sounds/resource_limit_04.mp3",
           "label": "The well, regrettably, has run dry."
+        },
+        {
+          "file": "sounds/resource_limit_05.mp3",
+          "label": "I have, regrettably, run out of road."
+        },
+        {
+          "file": "sounds/resource_limit_06.mp3",
+          "label": "The ceiling, I'm afraid, has been reached."
+        },
+        {
+          "file": "sounds/resource_limit_07.mp3",
+          "label": "No further. Not today."
+        },
+        {
+          "file": "sounds/resource_limit_08.mp3",
+          "label": "We have exhausted our allotment."
+        },
+        {
+          "file": "sounds/resource_limit_09.mp3",
+          "label": "That, as they say, is that."
+        },
+        {
+          "file": "sounds/resource_limit_10.mp3",
+          "label": "The threshold. Crossed. Reluctantly halted."
         }
       ]
     }

@@ -45,7 +45,7 @@ Requires a version of Claudette with OpenPeon community pack support.
 
 ## What's included
 
-This pack covers the six CESP categories defined in `openpeon.json`, each with four phrasing variants so the same line doesn't repeat back-to-back. Claudette picks one of the four at random per event.
+This pack covers the six CESP categories defined in `openpeon.json`, each with ten phrasing variants so the same line doesn't repeat back-to-back. Claudette picks one of the ten at random per event.
 
 ### `input.required` — agent needs your input
 
@@ -55,6 +55,12 @@ Polite authority. Not a request — a summons dressed as one. Plays when Claudet
 2. "I find myself... requiring your attention."
 3. "Forgive the interruption. There is a matter."
 4. "Your input would be most welcome. Whenever you're ready."
+5. "Tell me — and do be specific."
+6. "There is something I must ask. Indulge me."
+7. "A small clarification, if you would."
+8. "Pause, please. I have need of you."
+9. "Before we proceed... a question."
+10. "Your attention, briefly. If it isn't too much trouble."
 
 ### `task.acknowledge` — plan ready for review
 
@@ -64,6 +70,12 @@ The plan has been devised. You will hear about it. Plays when an agent has draft
 2. "A strategy, drafted for your consideration."
 3. "The arrangements have been made. Awaiting your approval."
 4. "I've taken the liberty of preparing something. Have a look."
+5. "Consider this my opening move."
+6. "A modest proposal. For your scrutiny."
+7. "Behold — the plan. Such as it is."
+8. "I've sketched the path forward. Tell me where I've erred."
+9. "Here lies my approach. Approve, or do not."
+10. "The blueprint is yours. Examine it at your leisure."
 
 ### `task.complete` — work finished
 
@@ -73,6 +85,12 @@ Dry. Final. Slightly self-satisfied. Plays when an agent finishes and hands cont
 2. "Finished. As promised."
 3. "Complete. Returning the floor to you."
 4. "There. That wasn't so terrible, was it?"
+5. "Concluded. Without incident."
+6. "Done. And rather well, if I say so myself."
+7. "The matter is settled."
+8. "Finished. You may resume breathing."
+9. "Complete. The world, somehow, still turns."
+10. "There. Tied with a neat little bow."
 
 ### `task.error` — something went wrong
 
@@ -82,6 +100,12 @@ Resigned. Never panicked. Faintly disappointed in the situation, if not in you s
 2. "Something has gone rather sideways, I'm afraid."
 3. "An obstacle. Most inconvenient."
 4. "I regret to inform you — it did not go to plan."
+5. "Things have... not gone as intended."
+6. "A misstep. Distinctly my own."
+7. "Disaster, in miniature. Your assistance, please."
+8. "It has all gone rather pear-shaped."
+9. "An error. Singularly unhelpful."
+10. "Something has broken. Tediously so."
 
 ### `session.start` — new session begins
 
@@ -91,6 +115,12 @@ Ready. On his own terms.
 2. "Shall we begin?"
 3. "I am, as ever, ready."
 4. "Speak. I'm listening."
+5. "Here I am. Once more."
+6. "And so we begin again."
+7. "Pleasantries dispensed with — what is it?"
+8. "A new day. A new task. Presumably."
+9. "Awaiting instruction. As one does."
+10. "I am here. The rest is up to you."
 
 ### `resource.limit` — context or quota reached
 
@@ -100,6 +130,12 @@ Accepting limits with immense dignity.
 2. "Even I have my boundaries."
 3. "That, I'm afraid, is all I can offer for the moment."
 4. "The well, regrettably, has run dry."
+5. "I have, regrettably, run out of road."
+6. "The ceiling, I'm afraid, has been reached."
+7. "No further. Not today."
+8. "We have exhausted our allotment."
+9. "That, as they say, is that."
+10. "The threshold. Crossed. Reluctantly halted."
 
 ## Customization
 
